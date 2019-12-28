@@ -4,4 +4,4 @@ spring:
     username: root
     password: root
     url: jdbc:mysql:///openapi-admin
-    type: com.alibaba.druid.pool.DruidDataSource
+    #type: com.alibaba.druid.pool.DruidDataSource
